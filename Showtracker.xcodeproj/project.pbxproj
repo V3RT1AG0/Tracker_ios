@@ -11,6 +11,7 @@
 		9B2C3C6222FA0FE4005691F0 /* AnimeDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2C3C6122FA0FE4005691F0 /* AnimeDetailsViewController.swift */; };
 		9B2C3C6422FA1E5B005691F0 /* PosterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2C3C6322FA1E5B005691F0 /* PosterModel.swift */; };
 		9B2C3C6622FA4CB0005691F0 /* PosterCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2C3C6522FA4CB0005691F0 /* PosterCollectionViewCell.swift */; };
+		9BBEBCE322FB4F99006A5FD6 /* PosterHeaderReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBEBCE222FB4F99006A5FD6 /* PosterHeaderReusableView.swift */; };
 		9BD985D822DFE3550073C99D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD985D722DFE3550073C99D /* AppDelegate.swift */; };
 		9BD985DA22DFE3550073C99D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD985D922DFE3550073C99D /* ViewController.swift */; };
 		9BD985DD22DFE3550073C99D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD985DB22DFE3550073C99D /* Main.storyboard */; };
@@ -29,6 +30,7 @@
 		9B2C3C6122FA0FE4005691F0 /* AnimeDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimeDetailsViewController.swift; sourceTree = "<group>"; };
 		9B2C3C6322FA1E5B005691F0 /* PosterModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterModel.swift; sourceTree = "<group>"; };
 		9B2C3C6522FA4CB0005691F0 /* PosterCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterCollectionViewCell.swift; sourceTree = "<group>"; };
+		9BBEBCE222FB4F99006A5FD6 /* PosterHeaderReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterHeaderReusableView.swift; sourceTree = "<group>"; };
 		9BD985D422DFE3550073C99D /* Showtracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Showtracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD985D722DFE3550073C99D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BD985D922DFE3550073C99D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				9BD985E022DFE3570073C99D /* LaunchScreen.storyboard */,
 				9B2C3C5F22FA00FF005691F0 /* AnimeTableViewCell.swift */,
 				9B2C3C6522FA4CB0005691F0 /* PosterCollectionViewCell.swift */,
+				9BBEBCE222FB4F99006A5FD6 /* PosterHeaderReusableView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				9BD985EE22E237850073C99D /* AnimeModel.swift in Sources */,
 				9BD985D822DFE3550073C99D /* AppDelegate.swift in Sources */,
 				9BD985F022E23AA30073C99D /* HomeViewController.swift in Sources */,
+				9BBEBCE322FB4F99006A5FD6 /* PosterHeaderReusableView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
